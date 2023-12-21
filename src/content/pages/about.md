@@ -5,19 +5,19 @@ title: "About Plastic to Purpose(P2P) "
 ---
 At P2P, we're reshaping the recycling landscape. By converting plastic waste into energy and rewarding contributors, we're making sustainability a reality. Join our mission.
 
-![Toys](/assets/p2plogo-2.png "Toys")
+![Toys](/assets/p2plogo-2.png)
 
  **Introducing Plastic to Purpose (P2P)**
 
 At **Plastic to Purpose** (P2P), we're not just another environmental organization. We're pioneers of change, committed to reshaping the way we address plastic waste and sustainability. Our journey began with a vision, and today, it's a mission that's transforming communities and **redefining recycling**.
 
-![]()
+![](/assets/untitled-5.png)
 
 **Meet Our Founders - Gabriel and Iyan**
 
 Our founders, Gabriel Abbes and Iyan Godwin, aren't your typical environmentalists. They're visionary thinkers, driven by **innovation and practical solutions**. With backgrounds in Economics, Data Science, and Business Administration, they bring a unique blend of expertise to the table. Their passion for sustainable solutions led to the inception of P2P, where they've turned a vision into a reality.
 
-![P2P warehouse](/assets/firefly-city-port-eco-friendly-blue-warehouse-with-p2p-on-top-drove-view-looking-down-81935.jpg "P2P Warehouse")
+![P2P warehouse](/assets/untitled-4.png)
 
  **Our Vision and the Future**
 
