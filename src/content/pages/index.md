@@ -8,5 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Discover P2P: Transforming plastic waste into sustainable fuel, empowering recyclers, and lighting up communities while combating pollution. Join us today!
