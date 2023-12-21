@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Plastic to Purpose",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "description": "Giving Waste a Second Life as Energy",
     "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "image": "/assets/p2plogo-2.png",
+    "iconimage": "/assets/p2plogo-2.png",
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }
