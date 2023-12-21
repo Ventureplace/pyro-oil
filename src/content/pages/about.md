@@ -17,7 +17,7 @@ At **Plastic to Purpose** (P2P), we're not just another environmental organizati
 
 Our founders, Gabriel Abbes and Iyan Godwin, aren't your typical environmentalists. They're visionary thinkers, driven by **innovation and practical solutions**. With backgrounds in Economics, Data Science, and Business Administration, they bring a unique blend of expertise to the table. Their passion for sustainable solutions led to the inception of P2P, where they've turned a vision into a reality.
 
-![P2P warehouse](/assets/untitled-4.png)
+![P2P warehouse](/assets/untitled-6.png)
 
  **Our Vision and the Future**
 
