@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-Discover P2P: Transforming plastic waste into sustainable fuel, empowering recyclers, and lighting up communities while combating pollution. Join us today!
+Discover P2P: Transforming plastic waste into sustainable fuel, empowering recycling, and lighting up communities while combating pollution. Join us today!
