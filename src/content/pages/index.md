@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Plastic to Purpose
+tagline: "Giving Waste a Second Life as Energy "
+featuredImage: /assets/glass.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
